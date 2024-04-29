@@ -1,0 +1,658 @@
+1714402222019	geckodriver	INFO	Listening on 127.0.0.1:38953
+1714402222599	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehnkRiz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714402223678	Marionette	INFO	Marionette enabled
+1714402223881	Marionette	INFO	Listening on port 34935
+Read port: 34935
+WebDriver BiDi listening on ws://127.0.0.1:54505
+1714402224004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54505/devtools/browser/7b146279-2154-4c1d-b702-9c1449f830fd
+1714402233137	Marionette	INFO	Stopped listening on port 34935
+1714402264726	geckodriver	INFO	Listening on 127.0.0.1:59235
+1714402264767	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletwYLtq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714402265488	Marionette	INFO	Marionette enabled
+1714402265623	Marionette	INFO	Listening on port 46351
+WebDriver BiDi listening on ws://127.0.0.1:53947
+Read port: 46351
+1714402265909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53947/devtools/browser/9ab1b128-a485-4117-b103-0e8addfa9424
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714402271825	Marionette	INFO	Stopped listening on port 46351
+1714402613672	geckodriver	INFO	Listening on 127.0.0.1:41913
+1714402613713	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile11ounZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714402614439	Marionette	INFO	Marionette enabled
+1714402614588	Marionette	INFO	Listening on port 33925
+WebDriver BiDi listening on ws://127.0.0.1:48787
+Read port: 33925
+1714402614682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48787/devtools/browser/611182fe-8202-4dea-bdba-02d215fcddd8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714402620518	Marionette	INFO	Stopped listening on port 33925
+1714402754485	geckodriver	INFO	Listening on 127.0.0.1:58065
+1714402754525	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletOHLrG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714402755224	Marionette	INFO	Marionette enabled
+1714402755368	Marionette	INFO	Listening on port 35283
+WebDriver BiDi listening on ws://127.0.0.1:38173
+Read port: 35283
+1714402755629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38173/devtools/browser/565fbba7-b579-4c46-844d-bd039d688d30
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714402780022	Marionette	INFO	Stopped listening on port 35283
+1714402813312	geckodriver	INFO	Listening on 127.0.0.1:56829
+1714402813353	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileitlz09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714402814044	Marionette	INFO	Marionette enabled
+1714402814200	Marionette	INFO	Listening on port 33299
+WebDriver BiDi listening on ws://127.0.0.1:60921
+Read port: 33299
+1714402814436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60921/devtools/browser/3894d0fc-c655-41b4-9a98-284798c8c653
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714402823394	Marionette	INFO	Stopped listening on port 33299
+1714404496940	geckodriver	INFO	Listening on 127.0.0.1:36475
+1714404496981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevniUvs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714404497706	Marionette	INFO	Marionette enabled
+1714404497836	Marionette	INFO	Listening on port 38309
+WebDriver BiDi listening on ws://127.0.0.1:36431
+Read port: 38309
+1714404498088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36431/devtools/browser/45b5f8a0-acd6-474f-8de6-59a98e34a524
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714404528819	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714404560562	geckodriver	INFO	Listening on 127.0.0.1:47091
+1714404560605	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3R5Oy9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714404561302	Marionette	INFO	Marionette enabled
+1714404561430	Marionette	INFO	Listening on port 45943
+WebDriver BiDi listening on ws://127.0.0.1:51881
+Read port: 45943
+1714404561684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51881/devtools/browser/b0d80513-ebd5-4080-a8bc-f694745981b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714404572492	Marionette	INFO	Stopped listening on port 45943
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 345: Script terminated by timeout at:
+Vl@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:345:889
+Em@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:350:615
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:663:178
+aa.Ck/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:611:126
+aa.Ck/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:610:420
+
+1714404724652	Marionette	INFO	Stopped listening on port 38309
+1714404854716	geckodriver	INFO	Listening on 127.0.0.1:43417
+1714404854758	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5tYH8f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714404855436	Marionette	INFO	Marionette enabled
+1714404855534	Marionette	INFO	Listening on port 37991
+WebDriver BiDi listening on ws://127.0.0.1:34491
+Read port: 37991
+1714404855754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34491/devtools/browser/bc409840-d3e9-45d4-8ef3-774415e49152
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714404865304	Marionette	INFO	Stopped listening on port 37991
+1714404917257	geckodriver	INFO	Listening on 127.0.0.1:55391
+1714404917301	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6GIpLD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714404918220	Marionette	INFO	Marionette enabled
+1714404918381	Marionette	INFO	Listening on port 34821
+Read port: 34821
+WebDriver BiDi listening on ws://127.0.0.1:55937
+1714404918483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55937/devtools/browser/36ce6a30-e2ca-41ac-9c55-bd9b3105f719
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714404928425	Marionette	INFO	Stopped listening on port 34821
+1714404979522	geckodriver	INFO	Listening on 127.0.0.1:43893
+1714404979572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1LCyQd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714404980502	Marionette	INFO	Marionette enabled
+1714404980656	Marionette	INFO	Listening on port 34547
+Read port: 34547
+WebDriver BiDi listening on ws://127.0.0.1:39411
+1714404980740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39411/devtools/browser/a35cff48-0048-4b84-86e3-8bdc7176145c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714404991920	Marionette	INFO	Stopped listening on port 34547
+1714405114383	geckodriver	INFO	Listening on 127.0.0.1:34075
+1714405114427	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej64e3D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405115286	Marionette	INFO	Marionette enabled
+1714405115471	Marionette	INFO	Listening on port 33995
+WebDriver BiDi listening on ws://127.0.0.1:55317
+Read port: 33995
+1714405115753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55317/devtools/browser/a882c9f2-a8e4-4a1f-ac81-71f3d31dc913
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405126208	Marionette	INFO	Stopped listening on port 33995
+1714405139642	geckodriver	INFO	Listening on 127.0.0.1:38445
+1714405139693	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePP5sPt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405140556	Marionette	INFO	Marionette enabled
+1714405140706	Marionette	INFO	Listening on port 37365
+WebDriver BiDi listening on ws://127.0.0.1:41941
+Read port: 37365
+1714405141008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41941/devtools/browser/718cb576-6815-4ccd-86c9-11d73d19bf3c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405160824	Marionette	INFO	Stopped listening on port 37365
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714405165369	geckodriver	INFO	Listening on 127.0.0.1:46117
+1714405165414	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS0IAqV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405166263	Marionette	INFO	Marionette enabled
+1714405166403	Marionette	INFO	Listening on port 45925
+Read port: 45925
+WebDriver BiDi listening on ws://127.0.0.1:34679
+1714405166506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34679/devtools/browser/fb7387a5-7daa-4698-b3ca-fa48aa139670
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405186948	Marionette	INFO	Stopped listening on port 45925
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714405611042	geckodriver	INFO	Listening on 127.0.0.1:41983
+1714405611087	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFgnYrO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405611988	Marionette	INFO	Marionette enabled
+1714405612122	Marionette	INFO	Listening on port 45475
+WebDriver BiDi listening on ws://127.0.0.1:34071
+Read port: 45475
+1714405612411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34071/devtools/browser/3039ed1c-f0b1-4ee1-b958-9269df6f3cd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405642009	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714405695019	geckodriver	INFO	Listening on 127.0.0.1:52413
+1714405695066	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezEZtFv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405695883	Marionette	INFO	Marionette enabled
+1714405696021	Marionette	INFO	Listening on port 39399
+WebDriver BiDi listening on ws://127.0.0.1:41485
+Read port: 39399
+1714405696294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41485/devtools/browser/460eae2f-3f6c-470e-8e4f-8c54eb66681c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 180: Script terminated by timeout at:
+zb@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:180:477
+Km@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:341:1010
+Lm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:344:171
+Em@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:341:638
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:653:178
+aa.Ck/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:601:126
+aa.Ck/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:600:420
+
+1714405703032	Marionette	INFO	Stopped listening on port 39399
+1714405711690	geckodriver	INFO	Listening on 127.0.0.1:57049
+1714405711738	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGBxZ4R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405712623	Marionette	INFO	Marionette enabled
+1714405712789	Marionette	INFO	Listening on port 43501
+WebDriver BiDi listening on ws://127.0.0.1:54401
+Read port: 43501
+1714405713057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54401/devtools/browser/521ec2ee-6df5-4f57-a375-51349bf82a57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405723424	Marionette	INFO	Stopped listening on port 43501
+1714405792996	geckodriver	INFO	Listening on 127.0.0.1:53845
+1714405793040	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqPrpui"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405793930	Marionette	INFO	Marionette enabled
+1714405794091	Marionette	INFO	Listening on port 33405
+WebDriver BiDi listening on ws://127.0.0.1:39343
+Read port: 33405
+1714405794368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39343/devtools/browser/3f41640f-1a3f-4729-9b83-30780000533a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405809556	Marionette	INFO	Stopped listening on port 33405
+1714405866487	geckodriver	INFO	Listening on 127.0.0.1:52695
+1714405866533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenh5PoG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405867394	Marionette	INFO	Marionette enabled
+1714405867520	Marionette	INFO	Listening on port 42851
+Read port: 42851
+WebDriver BiDi listening on ws://127.0.0.1:46379
+1714405867628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46379/devtools/browser/adb3790e-2524-49d5-9e74-00aad4412671
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405879927	Marionette	INFO	Stopped listening on port 42851
+1714405936778	geckodriver	INFO	Listening on 127.0.0.1:44587
+1714405936820	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBHohPH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405937645	Marionette	INFO	Marionette enabled
+1714405937810	Marionette	INFO	Listening on port 43533
+Read port: 43533
+WebDriver BiDi listening on ws://127.0.0.1:55865
+1714405937909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55865/devtools/browser/60515f50-edcd-4168-8ed6-8799ede08fe0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405949976	Marionette	INFO	Stopped listening on port 43533
+1714405974394	geckodriver	INFO	Listening on 127.0.0.1:46135
+1714405974441	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaWPTHD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714405975237	Marionette	INFO	Marionette enabled
+1714405975371	Marionette	INFO	Listening on port 39579
+WebDriver BiDi listening on ws://127.0.0.1:57893
+Read port: 39579
+1714405975668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57893/devtools/browser/778cb54b-0d9a-42fa-82bf-23ab7a21fea2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714405987692	Marionette	INFO	Stopped listening on port 39579
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 346: Script terminated by timeout at:
+Lm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:346:62
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:654:142
+aa.Ck/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:602:126
+aa.Ck/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:601:420
+
+1714413084697	Marionette	INFO	Stopped listening on port 45475
+1714413431041	geckodriver	INFO	Listening on 127.0.0.1:34495
+1714413431601	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBrY47B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714413432606	Marionette	INFO	Marionette enabled
+1714413432793	Marionette	INFO	Listening on port 35181
+Read port: 35181
+WebDriver BiDi listening on ws://127.0.0.1:34549
+1714413432899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34549/devtools/browser/1ac182e5-1ab9-4b7b-99e9-f97d2d2d4df9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714413463617	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714413494028	geckodriver	INFO	Listening on 127.0.0.1:57125
+1714413494071	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8kbB0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714413494932	Marionette	INFO	Marionette enabled
+1714413495129	Marionette	INFO	Listening on port 43051
+WebDriver BiDi listening on ws://127.0.0.1:49635
+Read port: 43051
+1714413495398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49635/devtools/browser/951321b2-3295-4baf-a1f9-3fdda674f64f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714413524956	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714413670006	Marionette	INFO	Stopped listening on port 43051
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714413673245	Marionette	INFO	Stopped listening on port 35181
+1714413720917	geckodriver	INFO	Listening on 127.0.0.1:53133
+1714413720962	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekXBsWg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714413721848	Marionette	INFO	Marionette enabled
+1714413722005	Marionette	INFO	Listening on port 43993
+WebDriver BiDi listening on ws://127.0.0.1:37135
+Read port: 43993
+1714413722309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37135/devtools/browser/058a77a2-bdfe-4060-aa10-9a698e5b83ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714413734576	Marionette	INFO	Stopped listening on port 43993
+1714415711010	geckodriver	INFO	Listening on 127.0.0.1:59713
+1714415711055	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehKyrKj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714415711883	Marionette	INFO	Marionette enabled
+1714415712029	Marionette	INFO	Listening on port 40667
+WebDriver BiDi listening on ws://127.0.0.1:53111
+Read port: 40667
+1714415712275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53111/devtools/browser/cdf3b536-8163-4355-a183-076a9e99d1b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 602: Script terminated by timeout at:
+aa.th@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:602:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:600:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:600:87
+aa.Ck/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:600:412
+
+1714415741992	Marionette	INFO	Stopped listening on port 40667
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1714415742061	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152071198, errorCode: 2, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1714415784154	geckodriver	INFO	Listening on 127.0.0.1:55615
+1714415784692	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuTZqQv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714415785488	Marionette	INFO	Marionette enabled
+1714415785632	Marionette	INFO	Listening on port 36229
+WebDriver BiDi listening on ws://127.0.0.1:39485
+Read port: 36229
+1714415785908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39485/devtools/browser/6313a94a-3f5f-4cea-8ef7-0b6555140a41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714415811798	Marionette	INFO	Stopped listening on port 36229
+1714415812563	geckodriver	INFO	Listening on 127.0.0.1:41353
+1714415812609	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVLdUiP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714415813408	Marionette	INFO	Marionette enabled
+1714415813550	Marionette	INFO	Listening on port 37295
+WebDriver BiDi listening on ws://127.0.0.1:57413
+Read port: 37295
+1714415813846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57413/devtools/browser/506d4ef9-a49c-45c6-a3a1-1cd379d066ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714415834987	Marionette	INFO	Stopped listening on port 37295
+1714415841346	geckodriver	INFO	Listening on 127.0.0.1:56365
+1714415841395	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletw3OEf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714415842288	Marionette	INFO	Marionette enabled
+1714415842437	Marionette	INFO	Listening on port 44383
+WebDriver BiDi listening on ws://127.0.0.1:47005
+Read port: 44383
+1714415842954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47005/devtools/browser/42d45a15-3238-42a6-be1e-782492f72a61
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 936))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714415874314	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:527:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:527:111
+
+1714415911533	Marionette	INFO	Stopped listening on port 44383
+1714415937287	geckodriver	INFO	Listening on 127.0.0.1:44439
+1714415937335	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile32zHdb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714415938179	Marionette	INFO	Marionette enabled
+1714415938307	Marionette	INFO	Listening on port 44151
+Read port: 44151
+WebDriver BiDi listening on ws://127.0.0.1:56665
+1714415938413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56665/devtools/browser/3281c69d-d864-451b-8657-33fc13ea414e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714415949072	Marionette	INFO	Stopped listening on port 44151
+1714416090586	geckodriver	INFO	Listening on 127.0.0.1:56251
+1714416090634	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7XQakl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416091499	Marionette	INFO	Marionette enabled
+1714416091652	Marionette	INFO	Listening on port 35203
+WebDriver BiDi listening on ws://127.0.0.1:39907
+Read port: 35203
+1714416091953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39907/devtools/browser/918a01f8-2e94-41f5-bfd7-50e7866a7fa2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714416101740	Marionette	INFO	Stopped listening on port 35203
+1714416105209	geckodriver	INFO	Listening on 127.0.0.1:43457
+1714416105261	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile46YlY2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416106111	Marionette	INFO	Marionette enabled
+1714416106283	Marionette	INFO	Listening on port 42971
+WebDriver BiDi listening on ws://127.0.0.1:52081
+Read port: 42971
+1714416106559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52081/devtools/browser/fe42c837-d601-46f5-abef-3d9fc4d572ee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416117236	Marionette	INFO	Stopped listening on port 42971
+console.error: "Error while calling actor 'root's method 'getTab'" "Unable to find tab with browserId '7' (no browsing-context)"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 382: Error: Protocol error (noTab): Unable to find tab with browserId '7' (no browsing-context) from: root
+1714416314801	geckodriver	INFO	Listening on 127.0.0.1:40503
+1714416314846	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ73Mjj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416315643	Marionette	INFO	Marionette enabled
+1714416315783	Marionette	INFO	Listening on port 45247
+WebDriver BiDi listening on ws://127.0.0.1:55545
+Read port: 45247
+1714416316097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55545/devtools/browser/4046e72c-38a1-4674-ab00-be0f4eeb2b27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416332780	Marionette	INFO	Stopped listening on port 45247
+1714416476170	geckodriver	INFO	Listening on 127.0.0.1:41627
+1714416476213	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel8AesR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416477108	Marionette	INFO	Marionette enabled
+1714416477277	Marionette	INFO	Listening on port 38305
+WebDriver BiDi listening on ws://127.0.0.1:38447
+Read port: 38305
+1714416477535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38447/devtools/browser/8b5e532c-5a42-46e5-a695-d2119001db66
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416490556	Marionette	INFO	Stopped listening on port 38305
+1714416509902	geckodriver	INFO	Listening on 127.0.0.1:43263
+1714416509947	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej6YnuN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416510734	Marionette	INFO	Marionette enabled
+1714416510876	Marionette	INFO	Listening on port 36337
+WebDriver BiDi listening on ws://127.0.0.1:47071
+Read port: 36337
+1714416511159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47071/devtools/browser/851790f7-726d-4894-bd68-a0d5f18b6e85
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416524042	Marionette	INFO	Stopped listening on port 36337
+JavaScript warning: https://sitval.com/polyfills.d518607856b4d8d9.js, line 1: Script terminated by timeout at:
+invokeTask@https://sitval.com/polyfills.d518607856b4d8d9.js:1:8210
+6935/p/this.invoke<@https://sitval.com/polyfills.d518607856b4d8d9.js:1:8167
+6935/pe/d/p.args[0]@https://sitval.com/polyfills.d518607856b4d8d9.js:1:28112
+
+1714416581968	geckodriver	INFO	Listening on 127.0.0.1:52553
+1714416582013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGaPj0M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416582824	Marionette	INFO	Marionette enabled
+1714416582960	Marionette	INFO	Listening on port 39361
+WebDriver BiDi listening on ws://127.0.0.1:50379
+Read port: 39361
+1714416583238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50379/devtools/browser/548df47e-c6de-444c-a876-10857ed271cc
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416613544	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714416619739	Marionette	INFO	Stopped listening on port 39361
+1714416666965	geckodriver	INFO	Listening on 127.0.0.1:51813
+1714416667011	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHs3kgV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416667823	Marionette	INFO	Marionette enabled
+1714416667989	Marionette	INFO	Listening on port 35943
+WebDriver BiDi listening on ws://127.0.0.1:55979
+Read port: 35943
+1714416668094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55979/devtools/browser/e79d3cc6-9d75-4247-b738-ff1acff7662f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416699390	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714416717417	geckodriver	INFO	Listening on 127.0.0.1:41035
+1714416717460	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewfUPy4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416718314	Marionette	INFO	Marionette enabled
+1714416718468	Marionette	INFO	Listening on port 33723
+WebDriver BiDi listening on ws://127.0.0.1:55177
+Read port: 33723
+1714416718766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55177/devtools/browser/d10454b8-1df5-4fe3-99fb-ff62f80af390
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416731672	Marionette	INFO	Stopped listening on port 33723
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB, line 179: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:179:1330
+aA@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:134
+bA/<@https://www.googletagmanager.com/gtag/js?id=G-ZMBM998VNB:526:111
+
+1714416766286	Marionette	INFO	Stopped listening on port 35943
+1714416767862	geckodriver	INFO	Listening on 127.0.0.1:50787
+1714416767904	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYu4xwX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714416768793	Marionette	INFO	Marionette enabled
+1714416768969	Marionette	INFO	Listening on port 39397
+WebDriver BiDi listening on ws://127.0.0.1:33109
+Read port: 39397
+1714416769236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33109/devtools/browser/0177b831-a5bd-407f-98b5-b3ca6110fa8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714416782370	Marionette	INFO	Stopped listening on port 39397
+1714417147247	geckodriver	INFO	Listening on 127.0.0.1:47221
+1714417147314	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileROVbKk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714417148092	Marionette	INFO	Marionette enabled
+1714417148220	Marionette	INFO	Listening on port 37875
+WebDriver BiDi listening on ws://127.0.0.1:43951
+Read port: 37875
+1714417148496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43951/devtools/browser/529e5b62-a4ab-4f3c-8b1e-434ca9178379
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714417164809	Marionette	INFO	Stopped listening on port 37875
+1714417344332	geckodriver	INFO	Listening on 127.0.0.1:59201
+1714417344376	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler6DwqV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714417345183	Marionette	INFO	Marionette enabled
+1714417345308	Marionette	INFO	Listening on port 43617
+WebDriver BiDi listening on ws://127.0.0.1:37289
+Read port: 43617
+1714417345603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37289/devtools/browser/622bd421-4d14-4621-b83b-f3f7f3a88db4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714417362148	Marionette	INFO	Stopped listening on port 43617
+1714417556310	geckodriver	INFO	Listening on 127.0.0.1:34191
+1714417556355	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5p88AT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714417557185	Marionette	INFO	Marionette enabled
+1714417557331	Marionette	INFO	Listening on port 37017
+WebDriver BiDi listening on ws://127.0.0.1:36525
+Read port: 37017
+1714417557568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36525/devtools/browser/a55a4762-1f9a-4846-ab51-d9c4a5ad93b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714417573904	Marionette	INFO	Stopped listening on port 37017
+1714418036369	geckodriver	INFO	Listening on 127.0.0.1:39149
+1714418036413	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeN4EYw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714418037382	Marionette	INFO	Marionette enabled
+1714418037541	Marionette	INFO	Listening on port 43825
+WebDriver BiDi listening on ws://127.0.0.1:54829
+Read port: 43825
+1714418037850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54829/devtools/browser/6fa411a0-b826-47d4-81c7-ae17c1dfb340
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714418056244	Marionette	INFO	Stopped listening on port 43825
+1714418091389	geckodriver	INFO	Listening on 127.0.0.1:37241
+1714418091435	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePyqNWn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714418092221	Marionette	INFO	Marionette enabled
+1714418092359	Marionette	INFO	Listening on port 37191
+WebDriver BiDi listening on ws://127.0.0.1:55575
+Read port: 37191
+1714418092631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55575/devtools/browser/9738a1c5-a6dd-49a1-8ffa-206ce13878bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714418110168	Marionette	INFO	Stopped listening on port 37191
+1714418150672	geckodriver	INFO	Listening on 127.0.0.1:50179
+1714418150718	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4mBa4d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714418151546	Marionette	INFO	Marionette enabled
+1714418151668	Marionette	INFO	Listening on port 37291
+WebDriver BiDi listening on ws://127.0.0.1:54245
+Read port: 37291
+1714418151936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54245/devtools/browser/20ec61b4-9ab3-400e-bf0c-9e620921a7c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sitval.com."
+1714418169416	Marionette	INFO	Stopped listening on port 37291
