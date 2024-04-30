@@ -36,7 +36,7 @@ def send_mail(sender, password, receiver, subject, dates):
                             <p style="font-size: large;">Hay citas disponibles!</p>"""
                             
     for date in dates:
-        mail_body += f'p style="font-weight: bold;">{date}</p>'
+        mail_body += f'<p> style="font-weight: bold;">{date}</p>'
         
     mail_body += """     
                         </body>
